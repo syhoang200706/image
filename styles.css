@@ -216,13 +216,13 @@ body {
 }
 .spotify-playlist h2{
     color: #fff;
-    font-size: 22px;
+    font-size: 25px;
     maxgin-bottom: 20px;
 
 }
 .spotify-playlist .card{    
     display: flex;
-    gap: 20px;
+    gap: 40px;
     overflow: hidden;
 }
 
@@ -267,7 +267,7 @@ body {
     border-radius: 100%;
     padding: 3px;
     right: 10px;
-    top: -60px;
+    top: -10px;
     left: 130px;
     opacity: 0;
     transform: 0.3 ease all;
@@ -362,8 +362,8 @@ hr{
     color: #969393;
     font-size: 20px;
     margin-bottom: 30px;
-    text-align: left;   /* căn phải */
-        padding-left: 20px; /* đẩy chữ cách mép phải 20px */
+    text-align: left;  
+        padding-left: 20px;
 }
 
 .preview{
@@ -394,7 +394,8 @@ hr{
 }
 
 .anh3 {
-  width: 300px;      /* chiều rộng khung */
-  height: 200px;     /* chiều cao khung */
-  overflow: hidden;  /* ẩn phần ảnh vượt ra ngoài */
+  width: 300px;     
+  height: 200px;     
+  overflow: hidden; 
 }
+
