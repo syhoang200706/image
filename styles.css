@@ -191,8 +191,6 @@ body {
 }
 .top-nav .login-btn .sign-up:hover{
    color:   #ffffff;
-   
-
 }
 
 .top-nav .login-btn .login{
@@ -336,15 +334,12 @@ hr{
     justify-content: center;
     margin: 10px 20px;    
     cursor: pointer;
-    font-size: 18px;   
+    font-size: 20px;   
 }
 
 
 .footer .social-links i:hover{
-
-    background: #353434;
-   
-
+    background: #4e4a4a;
 }
 
 
